@@ -16,5 +16,7 @@ int main() {
 
     return 0;
 }
-
+//output 
+//Before swap: x = 10, y = 20
+//After swap:  x = 20, y = 10 //
 
