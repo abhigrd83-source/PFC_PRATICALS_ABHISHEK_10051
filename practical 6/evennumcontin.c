@@ -13,6 +13,6 @@ int main() {
     return 0;
 }
 // output
-4
-6
+//4
+//6
 //
