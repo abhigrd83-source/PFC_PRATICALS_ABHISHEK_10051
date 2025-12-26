@@ -19,6 +19,14 @@ int main() {
     return 0;
 }
 // output
+//1
+//Wrong PIN
 //2
 //Wrong PIN
+//3
+//Wrong PIN
+//Card Blocked
+
+//=== Code Execution Successful ===
+
 //
